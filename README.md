@@ -175,4 +175,3 @@ This dashboard enables retail decision-makers to:
 
 **Shubham Singh**
 
-Power BI | Excel | SQL | Data Analytics
